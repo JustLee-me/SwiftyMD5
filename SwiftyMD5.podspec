@@ -25,7 +25,8 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-  demo test
+  一个swift版本的MD5转换工具，
+  摘抄自Kingfisher
                    DESC
 
   s.homepage     = "https://github.com/FJust/SwiftyMD5"
@@ -92,7 +93,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = 'Sources/*.swift'
+  s.source_files  = 'Sources/Swift+MD5.swift'
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
