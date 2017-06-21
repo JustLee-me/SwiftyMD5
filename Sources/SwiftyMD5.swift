@@ -1,6 +1,6 @@
 //
 //  String+MD5.swift
-//  FadePlayerDemo
+//  SwiftyMD5
 //
 //  Created by Just on 2017/6/16.
 //  Copyright © 2017年 Just. All rights reserved.

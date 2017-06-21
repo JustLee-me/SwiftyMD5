@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SwiftyMD5"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Change a string value to MD5."
 
   # This description is used to generate tags and improve search results.
@@ -93,7 +93,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = 'Sources/Swift+MD5.swift'
+  s.source_files  = 'Sources/SwiftyMD5.swift'
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
